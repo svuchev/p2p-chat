@@ -1,4 +1,4 @@
-package com.stoyanvuchev.p2pchat.ui.theme
+package com.stoyanvuchev.p2pchat.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
